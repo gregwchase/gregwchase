@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Technology Stack
+
+This my current technology stack, which is what I use in my professional and personal development
+
+Formatting credit to natkins
+
+|Logo|Package|Use Cases|Notes|
+|:-----|:-----|:-----|:-----|
+|AWS|AWS|c|d|
+|Dask|Dask|c|d|
+|FastAPI|FastAPI|c|d|
+|Poetry|Poetry|c|d|
+|[<img src="./images/RAPIDS-logo-white.png" width="256"/>](RAPIDS-logo-white.png)|[RAPIDS](https://rapids.ai/index.html)|c|d|
+
+
