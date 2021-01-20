@@ -5,7 +5,7 @@ This my current technology stack, which is what I use in my professional and per
 
 ||Package|Use Cases|Notes|
 |:-----|:-----|:-----|:-----|
-|[<img src="./images/aws_logo.png" width="256"/>](aws_logo.png)|AWS|Cloud computing services|<ul><li>EC2</li><li>S3</li><li>ECS</li></ul>|
+|[<img src="./images/aws_logo.png" width="256"/>](aws_logo.png)|[AWS](https://aws.amazon.com/)|Cloud computing services|<ul><li>EC2</li><li>S3</li><li>ECS</li></ul>|
 |[<img src="./images/dask_logo.png" width="256"/>](dask_logo.png)|[Dask](https://dask.org/)|Distributed computing|<ul><li>Lighter than Spark</li><li>Follows Pandas API</li><li>GPU compatible</li></ul> |
 |[<img src="./images/fastapi_logo.png" width="256"/>](fastapi_logo.png)|[FastAPI](https://fastapi.tiangolo.com/)|REST API's|<ul><li>Asynchronous</li><li>Faster than Flask</li><li>Easier to test</li></ul>|
 |[<img src="./images/poetry_logo.jpg" width="256"/>](poetry_logo.png)|[Poetry](https://python-poetry.org/)|Project package management and publishing|<ul><li>Resolves package dependencies</li></ul>|
